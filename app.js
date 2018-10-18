@@ -9,8 +9,7 @@ var config = {
   app_name: 'Andrew Dice Clay',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LddmHUUAAAAALzKf56LXvoKjq-4yoKKZ7WAN78Q
-',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LddmHUUAAAAALzKf56LXvoKjq-4yoKKZ7WAN78Q',  // <----- EDIT ME!
   redirect_uri: 'https://pureondice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
